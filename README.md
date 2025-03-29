@@ -30,7 +30,7 @@ TRAVEL1/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo/travel-chatbot.git
+   git clone https://github.com/Hiral373/AI-Travel-Chatbot.git
    cd travel-chatbot
    ```
 

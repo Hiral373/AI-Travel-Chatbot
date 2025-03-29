@@ -1,0 +1,64 @@
+{
+  "Goa": {
+    "Day 1": [
+      "🌴 Relax at Baga Beach and enjoy water sports",
+      "🍹 Visit a beach shack for seafood and drinks",
+      "🌅 Watch the sunset at Fort Aguada"
+    ],
+    "Day 2": [
+      "🏩 Explore Old Goa churches and Basilica of Bom Jesus",
+      "🛍️ Visit the Anjuna Flea Market",
+      "🎭 Enjoy Goa’s nightlife at a famous club"
+    ],
+    "Day 3": [
+      "🌳 Visit Dudhsagar Waterfalls",
+      "🍲 Try authentic Goan breakfast (Pao Bhaji, Bebinca)",
+      "✈️ Depart or take a relaxing boat ride in the backwaters"
+    ]
+  },
+  "Jaipur": {
+    "Day 1": [
+      "🏰 Visit the Amber Fort and take an elephant ride",
+      "📸 Explore Hawa Mahal for breathtaking views",
+      "🍽️ Enjoy authentic Rajasthani cuisine at Chokhi Dhani"
+    ],
+    "Day 2": [
+      "🏩 Discover the City Palace and Jantar Mantar",
+      "🛍️ Shop for handicrafts and jewelry at Johri Bazaar",
+      "🎭 Watch a cultural performance at Nahargarh Fort"
+    ],
+    "Day 3": [
+      "🌳 Visit Nahargarh Biological Park",
+      "🍲 Try famous Pyaaz Kachori for breakfast",
+      "✈️ Depart or explore more local attractions"
+    ]
+  },
+  "Mumbai": {
+    "Day 1": [
+      "🏩 Visit the Gateway of India and take a ferry to Elephanta Caves",
+      "🍽️ Enjoy street food at Chowpatty Beach",
+      "🌆 Explore Marine Drive and watch the sunset"
+    ],
+    "Day 2": [
+      "🎥 Tour Bollywood studios or Film City",
+      "🛍️ Shop at Colaba Causeway and Linking Road",
+      "🍹 Experience Mumbai nightlife at a rooftop bar"
+    ],
+    "Day 3": [
+      "🌳 Visit Sanjay Gandhi National Park & Kanheri Caves",
+      "🍲 Have a traditional breakfast at an Irani cafe",
+      "✈️ Depart or take a walk along Bandra-Worli Sea Link"
+    ]
+  },
+  "Manali": {
+    "Day 1": [
+      "🗓️ Arrival & Local Sightseeing - Visit Hadimba Devi Temple, Manu Temple, and Club House. Enjoy the Mall Road in the evening."
+    ],
+    "Day 2": [
+      "🗓️ Solang Valley & Adventure - Spend the day at Solang Valley. Try paragliding, skiing (in winters), or ropeway. Optional visit to Atal Tunnel."
+    ],
+    "Day 3": [
+      "🗓️ Naggar & Departure - Visit Naggar Castle, Roerich Art Gallery, and enjoy the riverside cafes before departure."
+    ]
+  }
+}
